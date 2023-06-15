@@ -10,3 +10,5 @@ The worldwide gross per genre
 
 
 https://public.tableau.com/app/sample-data/HollywoodsMostProfitableStories.csv
+[PowerBIscreenshot fro github.docx](https://github.com/Henrietta4life/dashboard/files/11757624/PowerBIscreenshot.fro.github.docx)
+
